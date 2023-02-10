@@ -1,0 +1,16 @@
+*.cs
+*.ico
+./*
+*.pfx
+*.png
+*.csproj*
+*.sln
+*.xaml
+*.config
+*.xml
+*.xsd
+/Assets/*
+/bin/*
+/obj/*
+/packages/*
+/Properties/*
