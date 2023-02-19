@@ -1,10 +1,10 @@
 # CheckiMaker.exe
 A fun little tool that allows one to take pictures of one's stream (OBS feed) and sign a cheki (チェキ) style photograph.
+REQUIRES WINDOWS AND SAMMI
 
 ![Example](https://github.com/HueVirtualCreature/ChekiMaker/blob/main/Images/ChekiMakerRunningExample.png)
 
 ## Instructions to Install
-Only for Windows sorry
 
  1. Place the program files (contents of ChekiMaker.Release.xxx.xxx.zip) in C:\Program Files\ChekiMaker
  2. Import and paste the deck data (contents of ImportThisDeckDataIntoSAMMI.txt) into SAMMI
