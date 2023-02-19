@@ -1,8 +1,8 @@
 *.cs
 *.ico
-./*
 *.pfx
-*.png
+overlay-polaroid-template.png
+overlay-polaroid-template.default.png
 *.csproj*
 *.sln
 *.xaml
