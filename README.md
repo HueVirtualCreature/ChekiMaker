@@ -1,6 +1,8 @@
 # CheckiMaker.exe
 A fun little tool that allows one to take pictures of one's stream (OBS feed) and sign a cheki (チェキ) style photograph.
 
+![Example](https://github.com/HueVirtualCreature/ChekiMaker/blob/main/Images/ChekiMakerRunningExample.png)
+
 ## Instructions to Install
 
  1. Place the program files (contents of ChekiMaker.Release.xxx.xxx.zip) in C:\Program Files\ChekiMaker
